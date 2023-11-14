@@ -1,0 +1,207 @@
+{
+  "categorias": [
+    {
+      "nome": "Bebidas",
+      "thumbnail": "/assets/categorias/thumbnail/bebidas.jpg",
+      "header": "/assets/categorias/header/bebidas.jpg",
+      "id": "bebidas",
+      "descricao": "Os melhores e mais atuais dispositivos eletrônicos estão aqui!"
+    },
+    {
+      "nome": "Massas",
+      "thumbnail": "/assets/categorias/thumbnail/massas.jpg",
+      "header": "/assets/categorias/header/massas.jpg",
+      "id": "massas",
+      "descricao": "Encontre aqui equipamentos para deixar seu carro com a sua cara!"
+    },
+    {
+      "nome": "Doces e Sobremesas",
+      "thumbnail": "/assets/categorias/thumbnail/doces.jpg",
+      "header": "/assets/categorias/header/doces.jpg",
+      "id": "doces",
+      "descricao": "Adquira os consoles e jogos mais atuais do mercado !"
+    },
+    {
+      "nome": "Hortifruti",
+      "thumbnail": "/assets/categorias/thumbnail/hortifruti.jpg",
+      "header": "/assets/categorias/header/hortifruti.jpg",
+      "id": "hortifruti",
+      "descricao": "Tudo para o que escritório ficar incrível!"
+    },
+    {
+      "nome": "Perfumaria",
+      "thumbnail": "/assets/categorias/thumbnail/perfumaria.jpg",
+      "header": "/assets/categorias/header/perfumaria.jpg",
+      "id": "perfumaria",
+      "descricao": "Curta suas músicas e seus filmes com a melhor qualidade!"
+    }
+  ],
+  "itens": [
+    {
+      "id": 1,
+      "titulo": " Água - 500ml",
+      "descricao": "Está com calor e precisando se hidratar? Aqui está a melhor melhor opção.",
+      "foto": "/assets/itens/agua.jpg" ,
+      "favorito": false,
+      "preco": 2.5,
+      "categoria": "bebidas"
+    },
+    {
+      "id": 2,
+      "titulo": "Refrigerante - 2L",
+      "descricao": "Combinaçãpo perfeita para o lanche ou comidas diferentes, nada melhor que um Refrigerante geladinho para acompanhar!",
+      "foto": "/assets/itens/refrigerante.jpg" ,
+      "favorito": false,
+      "preco": 7.0,
+      "categoria": "bebidas"
+    },
+    {
+      "id": 3,
+      "titulo": "Água com Gás - 500ml",
+      "descricao": "Água é sempre bem-vinda e não importa como. Prefere com gás Temos também, compre e se refresque em qualquer momento!",
+      "foto": "/assets/itens/agua-com-gas.jpg" ,
+      "favorito": false,
+      "preco": 3.5,
+      "categoria": "bebidas"
+    },
+    {
+      "id": 4,
+      "titulo": " Suco de Laranja - 2L",
+      "descricao": "Quer ir pela opção que contém sabor e mais saudável? Compre o melhor suco de laranja natural",
+      "foto": "/assets/itens/suco-de-laranja.jpg"  ,
+      "favorito": false,
+      "preco": 6.75,
+      "categoria": "bebidas"
+    },
+    {
+      "id": 5,
+      "titulo": "Pacote de Capeletti - 500g",
+      "descricao": "Já imaginou uma refeição diferenciada? Compre e saboreie a delicia de um bom capeletti.",
+      "foto": "/assets/itens/capeletti.jpg"  ,
+      "favorito": false,
+      "preco": 10.0,
+      "categoria": "masssas"
+    },
+    {
+      "id": 6,
+      "titulo": "Massa para Lasanha - 1kg",
+      "descricao": "Prepare a melhor lasanha, no melhor almoço de domingo! Aqui você encontra a melhor das massas.",
+      "foto": "/assets/itens/lasanha.jpg" ,
+      "favorito": false,
+      "preco": 13.9,
+      "categoria": "masssas"
+    },
+    {
+      "id": 7,
+      "titulo": "Pacote de Macarrão Penne - 500g",
+      "descricao": "Pensou em fazer aquele macarrão rápido e fácil que todo mundo gosta? Temos o melhor, compre e seja elogiado.",
+      "foto": "/assets/itens/macarrao.jpg" ,
+      "favorito": false,
+      "preco": 4.5,
+      "categoria": "masssas"
+    
+    },
+    {
+      "id": 8,
+      "titulo": "Massa para Pastel - 500g ",
+      "descricao": "Está com vontande da crocância de um pastel de feira, mas nunca acha uma massa boa? Seu problema acabou, compre já!",
+      "foto": "/assets/itens/pastel.jpg" ,
+      "favorito": false,
+      "preco": 7.8,
+      "categoria": "masssas"
+    },
+    {
+      "id": 9,
+      "titulo": "Barra de Chocolate - 98g",
+      "descricao": "Após a refeição deu aquela vontade de um docinho? Nada melhor que uma ótima barra de chocolate para matar de vez a sua vontade!",
+      "foto": "/assets/itens/chocolate.jpg" ,
+      "favorito": false,
+      "preco": 6.90,
+      "categoria": "doces"
+    },
+    {
+      "id": 10,
+      "titulo": "Creme de Leite - 200g",
+      "descricao": "Viu aquela receita de um delicoso doce na internet e já se organizou pra fazer? Não esqueça do Creme de leite!",
+      "foto": "/assets/itens/creme-de-leite.jpg"  ,
+      "favorito": false,
+      "preco": 2.85,
+      "categoria": "doces"
+    },
+    {
+      "id": 11,
+      "titulo": "Doce de Leite - 300g",
+      "descricao": "Prefere doce de leite no lugar do chocolate? Tudo bem aqui você encontra o melhor Doce de Leite com sabor caseiro!",
+      "foto": "/assets/itens/doce-de-leite.jpg" ,
+      "favorito": false,
+      "preco": 6.90,
+      "categoria": "doces"
+    },
+    {
+      "id": 12,
+      "titulo": "Leite Condensado - 395g ",
+      "descricao": "Viu aquela receita de um delicoso doce na internet e já se organizou pra fazer? Não esqueça do Leite Condensado!",
+      "foto": "/assets/itens/leite-condensado.jpg" ,
+      "favorito": false,
+      "preco": 7.60,
+      "categoria": "doces"
+    },
+    {
+      "id": 13,
+      "titulo": "Alface",
+      "descricao": "Pensando em iniciar aquela dieta depois de tanto doce? Nada melhor do que começar aqui, no mercado flex!",
+      "foto": "/assets/itens/alface.jpg" ,
+      "favorito": false,
+      "preco": 2.60,
+      "categoria": "hortifruti"
+    },
+    {
+      "id": 14,
+      "titulo": "Cenoura - 1kg",
+      "descricao": "Não é da dieta e quer fazer um bolo de cenoura caseiro? Compre aqui e garanta qualidade na hora de fazer sua deliciosa massa!",
+      "foto": "/assets/itens/cenoura.jpg" ,
+      "favorito": false,
+      "preco": 5.50,
+      "categoria": "hortifruti"
+      
+    },
+    {
+      "id": 15,
+      "titulo": "Laranja - 1kg",
+      "descricao": "Nada melhor do que chupar uma laranja no fim da tarde ou após o almoço, quem sabe até fazer um suco. Compre já",
+      "foto": "/assets/itens/laranja.jpg" ,
+      "favorito": false,
+      "preco": 6.70,
+      "categoria": "hortifruti"
+      
+    },
+    {
+      "id": 16,
+      "titulo": "Limão - 100g",
+      "descricao": "Suco, acompanhamento e até tempero, sempre precisamos de limão, compre já e sempre tenha em mãos!",
+      "foto": "/assets/itens/limao.jpg",
+      "favorito": false,
+      "preco": 1.99,
+      "categoria": "hortifruti"
+    },
+    {
+      "id": 17,
+      "titulo": "Shampoo e Condicionador - 400ml",
+      "descricao": "Para lavar, hidratar, finalizar ou usar como quiser, garanta a melhor dupla para o seu cabelo com o melhor preço!",
+      "foto": "/assets/itens/shampoo.jpg" ,
+      "favorito": false,
+      "preco": 15.0,
+      "categoria": "perfumaria"
+      
+    },
+    {
+      "id": 18,
+      "titulo": "Desodorante",
+      "descricao": "Quer comprar para aquela pessoa que as 7h da manhã está com mau cheiro no metrô? aqui está a solução!.",
+      "foto": "/assets/itens/desodorante.jpg" ,
+      "favorito": false,
+      "preco": 4.90,
+      "categoria": "perfumaria"
+    }
+  ]
+}
